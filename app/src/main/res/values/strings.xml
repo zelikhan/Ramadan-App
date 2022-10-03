@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calendar</string>
+    <string name="title_activity_nav_drawer">NavDrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Guide</string>
+    <string name="menu_slideshow">99 Names Of Allah</string>
+    <string name="guide">Guide</string>
+    <string name="rewards">• Prophet Muhammad (Pbuh) said: He who fasts solely for the sake of Allah, has all his previous sins forgiven. \n• The odour of the mouth of a fasting person is sweeter to Allah than the fragrance of musk. \n • It is narrated in the Hadith that on the Day of Judgement even before Reckoning has taken place, the fasting people will be sumptuously fed under the shade of Allah\'s Arsh (Throne) while others will be still embroiled in the hardships of Reckoning. \n • The Prophet (Pbuh) said, the sleep of a fasting person is Ibadat and his silence is Tasbeeh (recitation of Subhan Allah). \n • Fasting is a shield as long as the fasting person does not rupture it with lies and back-biting. \n • Saum and the Quran will intercede on behalf of the servant of Allah. Saum will say \'My Rabb! I forbade him from sleep at night and desires during the day, therefore, accept my intercession on his behalf.\' The Quran will say: \'I forbade him from sleep at night, therefore accept my intercession on his behalf.\' Thus, their intercession will be accepted.</string>
+    <string name="fast_who">Fasting during Ramadan is compulsory for every Muslim, male or female, who meets the following requirements: \n• Is mentally and physically fit i.e., sane and able. \n• Has attained the age of puberty and discretion, which is normally about 14 years. \n• Is present at their permanent settlement, hometown, farm or business premises etc. • Is fairly certain that the fasting is unlikely to cause any harm, physical or mental other than the normal reactions to hunger, thirst etc.</string>
+    <string name="suhoor">• Sahri is the act of arising from sleep during the course of the night to partake of some food or drink in anticipation of the next day\'s fasting. \n• Sahri is Sunnat regardless of whether one feels like eating anything or not. One should rise and eat even a date or two or merely take a gulp of water. \n• It is of greater merit to delay Sahri. But it should not be delayed so much that Subah Sadiq has almost set in, causing doubt in the validity of the fast. \n• It is not permissible to forgo a fast because of failure to wake up during the night for Sahri. \n• If Sahri was missed if one has overslept, one should not forgo fasting. It is not permissible to refrain from Saum because of having missed Sahri.</string>
+    <string name="delay_iftar">• It is Mustahab to hasten with Iftar (breaking the fast) as soon as the sun has set. \n• Iftar should be made before the Maghrib Salat. \n• The Muezzin should make Iftar before proclaiming the Azaan. \n• At the time of Iftar, it is Sunnat to recite the following dua: O Allah! I have fasted for you. I believe in you. I have trust in you and I make Iftar with the rizaq (food) provided by you. \n• Iftar should preferably be made with dates. In the absence of dates, water is best. \n• It is Makrooh to make Iftar when in doubt regarding sunset. \n• If it is overcast, Iftar should be delayed until there is absolute certainty that the sun has set. \n• If Iftar is made even a minute before sunset, Qadha of the fast is incumbent. It is Makrooh to unnecessarily delay Iftar. \n• The time of Iftar is very auspicious. Dua is readily accepted at the time when the fast is about to end.</string>
+    <string name="todo">TODO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.slideshow.SlideshowFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFFFFF"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0">
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="78dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/roundebutton_back_color"
+            android:fontFamily="sans-serif-medium"
+            android:gravity="center"
+            android:text="ALLAH"
+            android:textColor="#FFFFFF"
+            android:textSize="34sp" />
+
+        <TextView
+            android:id="@+id/arabic_name"
+            android:layout_width="match_parent"
+            android:layout_height="597dp"
+            android:gravity="center"
+            android:text=" ٱللَّٰه"
+            android:textColor="@color/black"
+            android:textSize="130sp" />
+
+        <LinearLayout
+            android:layout_width="411dp"
+            android:layout_height="95dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/roundebutton_back_color"
+            android:baselineAligned="false">
+
+            <ImageView
+                android:id="@+id/left_btn"
+                android:layout_width="128dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:src="@drawable/left_arrow" />
+
+            <TextView
+                android:id="@+id/name_number"
+                android:layout_width="158dp"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="0/3"
+                android:textColor="#FFFFFF"
+                android:textSize="34sp" />
+
+            <ImageView
+                android:id="@+id/right_btn"
+                android:layout_width="83dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:src="@drawable/right_arrow" />
+        </LinearLayout>
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
